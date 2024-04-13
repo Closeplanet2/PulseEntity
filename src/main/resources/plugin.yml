@@ -1,0 +1,4 @@
+name: PulseEntity
+version: '${project.version}'
+main: com.pandapulsestudios.pulseentity.PulseEntity
+api-version: '1.20'
